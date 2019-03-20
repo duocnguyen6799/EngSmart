@@ -11,7 +11,7 @@
 		</head>
 		
 		<body>
-		<div style="line-height: 1.5;" ;="">
+		
 		<h3 align="center">CHÍNH SÁCH, ĐIỀU KHOẢN SỬ DỤNG VÀ LƯU Ý CỦA ỨNG DỤNG EngSmart: "Hack Não" 1000 Từ Vựng Tiếng Anh FREE</h3>
 		<hr>
 		<ol type="1">	
